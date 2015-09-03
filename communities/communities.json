@@ -421,17 +421,17 @@
   },
   {
     "name": "Gelsenkirchen",
-    "url": "",
-    "map": "",
-    "prefix": "FF-GE-",
-    "Domaene": "Emscherland",
-    "Firmware": "http://images.freifunk-ruhrgebiet.de/ffel/stable/",
+    "url": "www.freifunk-gelsenkirchen.de",
+    "map": "http://map.ffgek.de/",
+    "prefix": "",
+    "Domaene": "Wupper",
+    "Firmware": "http://firmware.ffgek.de/",
     "contacts": [
       {
-        "firstname": "Michael",
-        "lastname": "Herzog",
-        "nickname": "",
-        "mail": "re@freifunk-ruhrgebiet.de"
+        "firstname": "Marc",
+        "lastname": "",
+        "nickname": "Goldwaage",
+        "mail": "Goldwaage.GLA@gmx.de"
       },
       {
         "firstname": "Heinz",
@@ -558,6 +558,12 @@
         "lastname": "",
         "nickname": "",
         "mail": "adminz@freifunk-ruhrgebiet.de"
+      },      
+      {
+        "firstname": "Marc",
+        "lastname": "",
+        "nickname": "Goldwaage",
+        "mail": "Goldwaage.GLA@gmx.de"
       }
     ]
   },
